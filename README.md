@@ -1,6 +1,8 @@
 glimmer
 =======
 
+Prokaryotic gene prediction
+
 Given a prokaryotic DNA sequence, predicts genes using GLIMMER algorithm
 
 Implements a reasonably faithful implementation of the GLIMMER algorithm for prokaryotic
